@@ -1,0 +1,57 @@
+
+<style>
+
+body {
+
+background-color:#0badd0;
+
+font-family: 'courier New', monospce;
+
+border-bottom: 1px solid white;
+
+}
+
+header{
+
+background-color: #e3d5cd;
+
+}
+
+main{
+
+background-color: #0badd0;
+
+}
+h1 {
+
+color: white;
+
+text-align: center;
+
+}
+
+h2 {
+
+color: white;
+
+}
+
+footer{
+
+background-color: #073033;
+
+}
+
+img {
+
+width: 127px;
+
+}
+
+video{
+
+width: 1000px;
+height: 500x;
+
+}
+</style>
